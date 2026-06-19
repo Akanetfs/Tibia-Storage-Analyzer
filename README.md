@@ -3,7 +3,7 @@ Storage analyzer tool
 
 Español:
 
-He creado esta herramienta la cual sirve para detectar storages duplicados dentro del servidor tanto en archivos .lua en actions/creaturescripts/npc/movements/globalevents entre otros como tambien el archivo storage.lua/storages.lua/051-storages.lua para poder detectar mas a fondo storages que puedas estar duplicados.
+He creado esta herramienta la cual sirve para detectar storages duplicados dentro del servidor tanto en archivos .lua en actions/creaturescripts/npc/movements/globalevents entre otros como tambien el archivo storage.lua/storages.lua/051-storages.lua para poder detectar mas a fondo storages que puedan estar duplicados.
 
 Como usar:
 
